@@ -1,4 +1,4 @@
-# Netflix Intro Skipper
+# Netflix Intro Skipper (Made with AI)
 
 A Chrome extension that automatically skips Netflix show intros, making your binge-watching experience seamless.
 
